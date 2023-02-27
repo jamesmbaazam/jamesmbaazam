@@ -1,21 +1,32 @@
 Hi there :wave:!! 
 
-I am a Research Software Engineer :computer: at the London School of Hygiene and Tropical Medicine, working on the [EpiVerse](https://github.com/epiverse-trace) Initiative funded by [data.org](https://data.org/initiatives/epiverse/). I am interested in developing software for scientific research, and am a member of the [Society of Research Software Engineering](https://society-rse.org/). 
+## About me
 
-**Software Projects**
+I am a Research Software Engineer :computer: at the London School of Hygiene and Tropical Medicine, working on the [Epiverse TRACE](https://github.com/epiverse-trace) Initiative. 
 
-I generally work on Pillar 2 of the Epiverse-TRACE Initiative, which involves improving/developing available tools/R packages for real-time forecasting of infectious disease outbreaks. Currently, I am actively improving [bpmodels](https://github.com/epiverse-trace/bpmodels), which is an R package for analysing the distribution of the size and length of transmission chains. In terms of improvements, I'm adding more simulation models, the ability to visualize the simulated transmission chains, faster runtimes, and documentation. `bpmodels` package will soon be submitted to CRAN. Be on the lookout for this.
+I am interested in developing software for scientific research, and am a member of the [Society of Research Software Engineering, UK](https://society-rse.org/). 
 
+My current role involves improving/developing R packages for real-time forecasting of infectious disease outbreaks. 
 
-**Research interests**
+## Software Projects
 
-I am a trained - PhD awarded - infectious disease modeller interested in evaluating the impact of pharmaceutical and non-pharmaceutical interventions on the spread of infectious vaccine-preventable diseases. More broadly, I am interested in quantitative health data analytics and tooling as an outcome, not a nice-to-have. 
+I am currently improving [bpmodels](https://github.com/epiverse-trace/bpmodels), which is an R package for analysing the distribution of the size and length of transmission chains. Improvements include: 
+- refactoring the core base to adopt object-orientation, 
+- including the simulation of other types of branching processes and  linelists, 
+- adding methods to handle and visualize simulated transmission chains, 
+- speeding up the simulation runtimes, and 
+- improving documentation. 
 
-Additionally, I indulge in the science communication and science policy literature. 
+## Research
 
-You can find my work on [Google Scholar](https://scholar.google.co.za/citations?user=IxRpXp8AAAAJ&hl=en).
+- I am interested in: 
+    - modelling the use of pharmaceutical and non-pharmaceutical interventions to control infectious diseases. 
+    - tooling - developing opensource software - of outbreak response data analytics. 
+    - science communication and policy. 
 
-**Let's connect**
+Find my work on [Google Scholar](https://scholar.google.co.za/citations?user=IxRpXp8AAAAJ&hl=en).
+
+## Let's connect
 
 Twitter: [james_azam](https://twitter.com/james_azam)
 
