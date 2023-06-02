@@ -13,17 +13,20 @@ infectious disease outbreaks.
 ⚙️: I am interested in developing software/workflows/pipelines for reproducible outbreak analytics, 
 and am a member of the [Society of Research Software Engineering, UK](https://society-rse.org/). 
 
-## Software Projects
+## My duties as a Research Software Engineer:
 
-📦: I am currently maintaining [bpmodels](https://github.com/epiverse-trace/bpmodels), which is an 
+📦: Developing [epichains]("https://github.com/epiverse-trace/epichains") as a successor of [bpmodels]("https://github.com/epiverse-trace/bpmodels"), which is an 
 R package for analysing the distribution of the size and length of transmission chains. 
+💻: Contributing to the development of other packages in the [Epiverse]("https://github.com/epiverse-trace/").
 
-* My day-to-day tasks include: 
-    - refactoring the code base to adopt object-orientation (S3 classes and methods), 
-    - including the simulation of other types of branching processes and  linelists, 
-    - adding methods to handle and visualize simulated transmission chains, 
-    - speeding up the simulation runtimes, and 
-    - improving documentation. 
+* Day-to-day tasks: 
+    - improving the underlying models of the packages I develop and maintain,  
+    - employing best practices of software development:
+       - friendly and professional code reviews,
+       - improving code coverage with well-crafted unit tests,
+       - adding continuous integration and other workflows,
+       - improving documentation, 
+       - making it easy to contribute to projects, etc.   
 
 ## Research
 
@@ -55,8 +58,8 @@ infectious diseases.
 
 2️⃣: Models and methods for (near) real-time forecasting of infectious diseases. 
 
-3️⃣: _More recently_: Models and methods for analysing and informing contact tracing, 
-and for inferring who infected whom in outbreaks. I am exploring the software 
+3️⃣: _More recently_: Models and methods for analysing early outbreak data, including 
+informing contact tracing, and inferring who infected whom in outbreaks. I am exploring the software 
 ecosystem around this area to see how I can contribute. If you have any pointers, I would be 
 happy to hear about them.
 
