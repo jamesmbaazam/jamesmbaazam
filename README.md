@@ -5,12 +5,17 @@ Medicine, working on the [Epiverse TRACE](https://github.com/epiverse-trace) Ini
 which is a project to develop and maintain R packages for providing reproducible analytics 
 support during epidemics. 
 
+🕐: I also co-maintain the Carpentries course on [Data Analysis and Visualization in R for Ecologists](https://github.com/datacarpentry/R-ecology-lesson).
+
 💻: I use R, git and Github daily.
 
-👨‍💼: My current role involves improving/developing R packages for real-time forecasting of 
+🖥️: I am slowly learning Bayesian Data analysis and [Rstan](https://mc-stan.org/users/interfaces/rstan) through 
+the [Statistical Rethinking course](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus).
+
+👨‍💼: My current role involves developing/maintaining R packages for real-time forecasting of 
 infectious disease outbreaks. 
 
-⚙️: I am interested in developing software/workflows/pipelines for reproducible outbreak analytics, 
+⚙️: I am interested in developing software/workflows/pipelines for sustainable and reproducible outbreak analytics, 
 and am a member of the [Society of Research Software Engineering, UK](https://society-rse.org/). 
 
 ## My duties as a Research Software Engineer:
