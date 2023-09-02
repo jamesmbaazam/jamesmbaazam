@@ -18,7 +18,7 @@ infectious disease outbreaks.
 ⚙️: I am interested in developing software/workflows/pipelines for sustainable and reproducible outbreak analytics, 
 and am a member of the [Society of Research Software Engineering, UK](https://society-rse.org/). 
 
-## My duties as a Research Software Engineer:
+## Current work
 
 📦: Developing [epichains]("https://github.com/epiverse-trace/epichains") as a successor of [bpmodels]("https://github.com/epiverse-trace/bpmodels"), which is an 
 R package for analysing the distribution of the size and length of transmission chains. 
