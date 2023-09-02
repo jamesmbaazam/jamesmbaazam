@@ -68,11 +68,29 @@ informing contact tracing, and inferring who infected whom in outbreaks. I am ex
 ecosystem around this area to see how I can contribute. If you have any pointers, I would be 
 happy to hear about them.
 
+## Teaching
+
+I don't currently teach as part of my duties but I can teach the following topics quite comfortably:
+
+1️⃣: R programming from the basics to advanced topics (R package development, object-oriented programming)
+
+2️⃣: Git/GitHub from the basics to intermediate/advanced (merging and rebasing, cherry-picking, etc)
+
+3️⃣: Reproducible data analysis workflows
+
+4️⃣: Mathematical/Statistical/Dynamical modelling of infectious diseases
+
+5️⃣: Various topics in data analysis
+
+6️⃣: Thesis and journal article writing techniques
+
 ## Let's connect
 
-📃: [Google Scholar](https://scholar.google.co.za/citations?user=IxRpXp8AAAAJ&hl=en)
+📧: james.azam@lshtm.ac.uk OR james.m.azam@gmail.com
 
 🐦: Twitter: [james_azam](https://twitter.com/james_azam)
 
 🟦: LinkedIn: [James Azam](https://www.linkedin.com/in/james-azam-phd-6b5b00176/)
+
+📃: [Google Scholar](https://scholar.google.co.za/citations?user=IxRpXp8AAAAJ&hl=en)
 
