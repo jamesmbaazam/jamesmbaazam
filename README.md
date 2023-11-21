@@ -20,53 +20,52 @@ and am a member of the [Society of Research Software Engineering, UK](https://so
 
 ## Current work
 
-📦: Developing [epichains]("https://github.com/epiverse-trace/epichains") as a successor of [bpmodels]("https://github.com/epiverse-trace/bpmodels"), which is an 
-R package for analysing the distribution of the size and length of transmission chains. 
-💻: Contributing to the development of other packages in the [Epiverse]("https://github.com/epiverse-trace/").
+📦: Developing [epichains](https://github.com/epiverse-trace/epichains) as a successor of [bpmodels](https://github.com/epiverse-trace/bpmodels), which is an 
+R package for analysing the distribution of the size and length of transmission chains.
 
-* Day-to-day tasks: 
-    - improving the underlying models of the packages I develop and maintain,  
-    - employing best practices of software development:
-       - friendly and professional code reviews,
-       - improving code coverage with well-crafted unit tests,
-       - adding continuous integration and other workflows,
-       - improving documentation, 
-       - making it easy to contribute to projects, etc.   
+📦: Contributing to new features and enhancements of [EpiNow2](https://github.com/epiforecasts/EpiNow2).
+
+📦: Contributing to the development of other packages in the [Epiverse](https://github.com/epiverse-trace/).
+
+🕵️‍♂️: Reviewing open source R code.
+
+🕵️‍♂️: Peer reviewing R software, epidemiologic, and epidemic modeling papers.
+
+### Day-to-day tasks
+
+* Improving the underlying models of the packages I develop and maintain,  
+* Employing best practices of software development:
+  - friendly and professional code reviews,
+  - improving code coverage with well-crafted unit tests,
+  - adding continuous integration and other workflows,
+  - improving documentation, 
+  - making it easy to contribute to projects, etc.   
 
 ## Research
 
-### Ongoing work:
+### Recently completed
+
+1️⃣: Azam, J.M., Pang, X., Are, E.B., Pulliam, J.R. and Ferrari, M.J., 2023. [Modelling outbreak response impact in human vaccine-preventable diseases: A systematic review of differences in practices between collaboration types before COVID19](https://doi.org/10.1016/j.epidem.2023.100720). Epidemics, p.100720.
+
+### Ongoing work
 
 1️⃣: [Age-structured compartmental model](https://github.com/SACEMA/sa-polio-model) for 
 estimating the timing of detection of polio-related acute flacid paralysis in South 
 Africa (generalizable to other settings).
-    - Workflow: R and GNU make.
     
 2️⃣: [A surveillance pipeline](https://github.com/SACEMA/severity-monitoring) to detect 
 changes in reported COVID-19 severity (case fatality, case hospitalization, and 
 hospital fatality).
-    - Workflow: R and GNU make.
     
-3️⃣: [A systematic review](https://github.com/jamesmbaazam/orv_modelling_review_epidemics) 
-of outbreak response mechanistic modelling practices before the COVID-19 pandemic for 
-human vaccine-preventable diseases.
-    - Workflow: R, Rmarkdown, and LaTeX.
-    
-4️⃣: [A two-strain compartmental model](https://github.com/jamesmbaazam/two_strain_orv_model) 
+3️⃣: [A two-strain compartmental model](https://github.com/jamesmbaazam/two_strain_orv_model) 
 for studying the impact of the timing of emergence of variants on control strategies.
-    - Workflow: R (but will be refactored soon to use GNU make too).
 
 ### Broad research interests:
 
 1️⃣: Compartmental modelling of the impact of control measures against 
 infectious diseases. 
 
-2️⃣: Models and methods for (near) real-time forecasting of infectious diseases. 
-
-3️⃣: _More recently_: Models and methods for analysing early outbreak data, including 
-informing contact tracing, and inferring who infected whom in outbreaks. I am exploring the software 
-ecosystem around this area to see how I can contribute. If you have any pointers, I would be 
-happy to hear about them.
+2️⃣: (Bayesian) Models and methods for (near) real-time forecasting and nowcasting of infectious diseases. 
 
 ## Teaching
 
