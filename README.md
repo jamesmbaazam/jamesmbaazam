@@ -16,5 +16,5 @@ R package for analysing the distribution of the size and length of transmission 
 
 🕵️‍♂️: Peer review manuscripts in Global Health, Epidemiology, and infectious disease modeling, and R software.
 
-See more on my [website](https://jamesmbaazam.github.io/jamesmbaazam/).
+See more on my [website](https://jamesmbaazam.github.io/).
 
