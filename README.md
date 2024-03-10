@@ -8,13 +8,16 @@ support during epidemics.
 📦: Develop [epichains](https://github.com/epiverse-trace/epichains) as a successor of [bpmodels](https://github.com/epiverse-trace/bpmodels), which is an 
 R package for analysing the distribution of the size and length of transmission chains.
 
-📦: Contribute to new features and enhancements of [EpiNow2](https://github.com/epiforecasts/EpiNow2) and [epinowcast](https://github.com/epinowcast/epinowcast).
+📦: Contributor: [EpiNow2](https://github.com/epiforecasts/EpiNow2), [epinowcast](https://github.com/epinowcast/epinowcast), and [scoringutils](https://epiforecasts.io/scoringutils/).
 
-📦: Contribute to developing other packages in the [Epiverse](https://github.com/epiverse-trace/).
+📦: Contribute to the packages in the [Epiverse-TRACE Initiative](https://github.com/epiverse-trace/).
 
-🕵️‍♂️: Review open source R code.
+🕵️‍♂️: Code reviews. See examples in:
+  - [the epidemics R package](https://github.com/epiverse-trace/epidemics/pull/176#pullrequestreview-1925558435)
+  - [the cfr R package](https://github.com/epiverse-trace/cfr/pull/78#pullrequestreview-1617135290)
+  - [the superspreading R package](https://github.com/epiverse-trace/superspreading/pull/77#pullrequestreview-1833259711)
 
-🕵️‍♂️: Peer review manuscripts in Global Health, Epidemiology, and infectious disease modeling, and R software.
+🕵️‍♂️: Peer review of scientific manuscripts in Global Health, Epidemiology, and infectious disease modeling, and R software.
 
 See more on my [website](https://jamesmbaazam.github.io/).
 
