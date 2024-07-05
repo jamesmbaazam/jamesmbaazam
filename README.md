@@ -19,6 +19,7 @@ R package for analysing the distribution of the size and length of transmission 
   - [the epidemics R package](https://github.com/epiverse-trace/epidemics/pull/176#pullrequestreview-1925558435)
   - [the cfr R package](https://github.com/epiverse-trace/cfr/pull/78#pullrequestreview-1617135290)
   - [the superspreading R package](https://github.com/epiverse-trace/superspreading/pull/77#pullrequestreview-1833259711)
+  - [the epiparameter R package](https://github.com/epiverse-trace/epiparameter/pull/341#pullrequestreview-2161323012)
 
 🕵️‍♂️: Peer review scientific manuscripts in Infectious disease modeling, Global Public Health, and R package development.
 
