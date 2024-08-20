@@ -25,14 +25,18 @@ R package for analysing the distribution of the size and length of transmission 
 
   - I've so far reviewed articles in [Scientific Reports](https://www.nature.com/srep/), [Plos Global Public Health](https://journals.plos.org/globalpublichealth/), and [The Journal of Open Source Software](https://joss.theoj.org/).
 
-# Concepts I'm currently learning
+# Technical concepts I'm currently learning
 
 - Probabilistic Programming with the [Stan programming language](https://mc-stan.org/)
+- [Bayesian Data Analysis](https://www.bayesrulesbook.com/)
+- [Model fitting](https://sbfnk.github.io/mfiidd/)
 - [Nowcasting and Forecasting](https://nfidd.github.io/nfidd/)
 
 # Books I'm currently reading
 
+- [A Game of Thrones](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
 - [The Art of Explanation](https://www.amazon.co.uk/Art-Explanation-Communicate-Clarity-Confidence/dp/1472298446)
+- [How to talk to anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/dp/0722538073)
 - [Standard Deviation](https://www.amazon.co.uk/Standard-Deviation/dp/B071HJB4S2/ref=sr_1_1?crid=1M3BZ5MVYPHFP&dib=eyJ2IjoiMSJ9.ULOMqOgbe_Mhp_ZkQ9ONEn895_j7e1l_KAleKJh89s70d6Or09GA_mN6K0K8LC8z5zoMQ8HITecRmb52ea83lePTBEbZXVf8Dw0WicLj6EA.M59exQWJacSBic88KSlZh3rvTtsgJ2yX5DzUfWEIXTg&dib_tag=se&keywords=standard+deviation+katherine+heiny&qid=1719228399&s=books&sprefix=standard+%2Cstripbooks%2C145&sr=1-1)
 
 
