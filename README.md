@@ -1,11 +1,15 @@
-Hi there, I am a Research Software Engineer :computer: at the London School of Hygiene and Tropical 
+I am a Research Software Engineer :computer: at the London School of Hygiene and Tropical 
 Medicine, working on the [Epiverse TRACE](https://github.com/epiverse-trace) Initiative, 
 which is a project to develop and maintain R packages for providing reproducible analytics 
 support during epidemics.
 
+I am interested in developing mathematical and statistical models and methods and accompanying software to improve our understanding of how pharmaceutical and non-pharmaceutical interventions impact disease spread.
+
 # What I do
 
-📦: **Develop** [epichains](https://github.com/epiverse-trace/epichains), an R package for analysing the distribution of the size and length of transmission chains), and [EpiNow2](https://github.com/epiforecasts/EpiNow2), an R package for forecasting and nowcasting infectious disease dynamics and estimating the time-varying reproduction number.
+📦: **Develop** epidemiological modelling R packages:
+  - [epichains](https://github.com/epiverse-trace/epichains), an R package for analysing the distribution of the size and length of transmission chains), and 
+  - [EpiNow2](https://github.com/epiforecasts/EpiNow2), an R package for forecasting and nowcasting infectious disease dynamics and estimating the time-varying reproduction number.
 
 📦: **Contribute** to the following R packages:
 
@@ -27,7 +31,7 @@ support during epidemics.
 
   - I've so far reviewed articles in [Scientific Reports](https://www.nature.com/srep/), [Plos Global Public Health](https://journals.plos.org/globalpublichealth/), [The Journal of Open Source Software](https://joss.theoj.org/), and [BMC Infectious Diseases](https://bmcinfectdis.biomedcentral.com/).
 
-🌐: Affiliate with several networks including:
+🌐: Collaborate & Affiliate with several networks including:
   -  The [Global Burden of Disease Network](https://www.healthdata.org/research-analysis/gbd) as a collaborator,
   -  [South African Center for Epidemiological Modelling and Analysis](https://www.sacema.org/) as a [Research Associate](https://www.sacema.org/person/james-azam-phd/),
   -  [German West African Center for Pandemic Preparedness and Prevention in Ghana](https://g-wac.org/) as an infectious disease analytics fellow.
