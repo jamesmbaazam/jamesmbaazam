@@ -29,7 +29,7 @@ I am interested in developing mathematical and statistical models and methods an
 
 🕵️‍♂️: Peer review scientific manuscripts in Infectious disease modeling, Global Public Health, and R package development.
 
-  - I've so far reviewed articles in [Scientific Reports](https://www.nature.com/srep/), [Plos Global Public Health](https://journals.plos.org/globalpublichealth/), [The Journal of Open Source Software](https://joss.theoj.org/), and [BMC Infectious Diseases](https://bmcinfectdis.biomedcentral.com/).
+  - I've so far reviewed articles in [Scientific Reports](https://www.nature.com/srep/), [Plos Global Public Health](https://journals.plos.org/globalpublichealth/), [The Journal of Open Source Software](https://joss.theoj.org/), and [Bulletin of Mathematical Biology](https://link.springer.com/journal/11538)).
 
 🌐: Collaborate & Affiliate with several networks including:
   -  The [Global Burden of Disease Network](https://www.healthdata.org/research-analysis/gbd) as a collaborator,
