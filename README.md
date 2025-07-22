@@ -45,12 +45,7 @@ I am interested in developing mathematical and statistical models and methods an
 
 # Books I'm currently reading
 
-- [A Game of Thrones](https://www.goodreads.com/book/show/13496.A_Game_of_Thrones)
-- [The Art of Explanation](https://www.amazon.co.uk/Art-Explanation-Communicate-Clarity-Confidence/dp/1472298446)
-- [How to talk to anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/dp/0722538073)
-- [Standard Deviation](https://www.amazon.co.uk/Standard-Deviation/dp/B071HJB4S2/ref=sr_1_1?crid=1M3BZ5MVYPHFP&dib=eyJ2IjoiMSJ9.ULOMqOgbe_Mhp_ZkQ9ONEn895_j7e1l_KAleKJh89s70d6Or09GA_mN6K0K8LC8z5zoMQ8HITecRmb52ea83lePTBEbZXVf8Dw0WicLj6EA.M59exQWJacSBic88KSlZh3rvTtsgJ2yX5DzUfWEIXTg&dib_tag=se&keywords=standard+deviation+katherine+heiny&qid=1719228399&s=books&sprefix=standard+%2Cstripbooks%2C145&sr=1-1)
-
-
+- [Half of a Yellow Sun](https://www.goodreads.com/book/show/18749.Half_of_a_Yellow_Sun)
 
 See more on my [website](https://jamesmbaazam.github.io/).
 
