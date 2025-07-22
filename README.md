@@ -31,10 +31,10 @@ I am interested in developing mathematical and statistical models and methods an
 
   - I've so far reviewed articles in [Scientific Reports](https://www.nature.com/srep/), [Plos Global Public Health](https://journals.plos.org/globalpublichealth/), [The Journal of Open Source Software](https://joss.theoj.org/), and [Bulletin of Mathematical Biology](https://link.springer.com/journal/11538)).
 
-🌐: Collaborate & Affiliate with several networks including:
+🌐: Collaborate & hold honorary roles with several networks including:
   -  The [Global Burden of Disease Network](https://www.healthdata.org/research-analysis/gbd) as a collaborator,
   -  [South African Center for Epidemiological Modelling and Analysis](https://www.sacema.org/) as a [Research Associate](https://www.sacema.org/person/james-azam-phd/),
-  -  [German West African Center for Pandemic Preparedness and Prevention in Ghana](https://g-wac.org/) as an infectious disease analytics fellow.
+  -  [German West African Center for Pandemic Preparedness and Prevention in Ghana](https://g-wac.org/) as an Senior Research Fellow.
 
 # Technical concepts I'm currently (re-)learning
 
