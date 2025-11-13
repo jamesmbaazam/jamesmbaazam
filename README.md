@@ -7,15 +7,16 @@ I am interested in developing mathematical and statistical models and methods an
 
 # What I do
 
-📦: **Develop** epidemiological modelling R packages:
+📦: **Develop** and (co-)maintainer of epidemiological modelling R packages:
   - [epichains](https://github.com/epiverse-trace/epichains), an R package for analysing the distribution of the size and length of transmission chains), and 
   - [EpiNow2](https://github.com/epiforecasts/EpiNow2), an R package for forecasting and nowcasting infectious disease dynamics and estimating the time-varying reproduction number.
 
 📦: **Contribute** to the following R packages:
 
-  - Several packages in the [Epiverse-TRACE Initiative](https://github.com/epiverse-trace/),
-  - [epinowcast](https://github.com/epinowcast/epinowcast),
-  - [scoringutils](https://epiforecasts.io/scoringutils/).
+  - Several packages in open source communities, including:
+    - [Epiverse-TRACE Initiative](https://github.com/epiverse-trace/)
+    - [epinowcast](https://github.com/epinowcast/)
+    - [epiforecasts](https://epiforecasts.io/software.html)
 
 🕵️‍♂️: **Conduct code reviews**. See examples in:
   - [the epidemics R package](https://github.com/epiverse-trace/epidemics/pull/176#pullrequestreview-1925558435)
